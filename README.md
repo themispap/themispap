@@ -14,6 +14,8 @@ Hello! 👋 I am Themis, a dedicated and highly analytical professional with a s
 
 You can take a look in my [porfolio](https://themispap.github.io/)
 
+## 
+
 Feel free to explore my repositories and connect with me on [LinkedIn]([your-linkedin-profile-url](https://www.linkedin.com/in/papavramidisthemis/)) or via email at your [papavramidis.themis@gmail.com](mailto:papavramidis.themis@gmail.com). I am always open to discussing new opportunities and collaborations.
 
 _Thank you for visiting my profile!_
