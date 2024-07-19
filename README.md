@@ -12,7 +12,7 @@ Hello! 👋 I am Themis, a dedicated and highly analytical professional with a s
 
 ## Projects
 
-You can take a look in my [porfolio](https://themispap.github.io/)
+You can take a look at my [porfolio](https://themispap.github.io/)
 
 ## 
 
