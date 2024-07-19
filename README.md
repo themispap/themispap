@@ -16,7 +16,7 @@ You can take a look at my [porfolio](https://themispap.github.io/)
 
 ## 
 
-Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/papavramidisthemis/) or via email at your [papavramidis.themis@gmail.com](mailto:papavramidis.themis@gmail.com). I am always open to discussing new opportunities and collaborations.
+Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/papavramidisthemis/) or via email at [papavramidis.themis@gmail.com](mailto:papavramidis.themis@gmail.com). I am always open to discussing new opportunities and collaborations.
 
 _Thank you for visiting my profile!_
 
