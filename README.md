@@ -1,4 +1,4 @@
-![](https://media.licdn.com/dms/image/D4D16AQEM9Yxegbsebg/profile-displaybackgroundimage-shrink_350_1400/0/1682282572323?e=1726704000&v=beta&t=7tlbt6S1f1AiLgWoDr_L3Kg4IMu5c9StGO3I1-XjmKg)
+![](https://drive.google.com/file/d/1Uw6G8KV5jVr_iQpqRC5kALDFca0LQ4I0/view?usp=sharing)
 
 ## Hi there 👋
 
