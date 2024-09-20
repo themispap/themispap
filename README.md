@@ -1,4 +1,4 @@
-![](https://drive.google.com/file/d/1Uw6G8KV5jVr_iQpqRC5kALDFca0LQ4I0/view?usp=sharing)
+![](image878.png)
 
 ## Hi there 👋
 
