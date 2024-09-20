@@ -1,6 +1,6 @@
-![](bground.png)
-
 ## Hi there 👋
+
+![](bground.png)
 
 Hello! 👋 I am Themis, a dedicated and highly analytical professional with a strong background in mathematics, statistics, and data analysis. With ten years of experience in the field of education, I specialize in teaching mathematics, statistics, programming (primarily Python), and data analysis for scientific research. I have strong data management and statistical skills and am proficient in Python, R, and SQL. Currently, I am building my portfolio, studying machine learning, and I am looking forward to joining a professional and diverse team focused on applying machine learning to automate decision-making processes.
 
